@@ -16,5 +16,8 @@ class Calc
     
     // Multiply two numbers
     System.out.println("The multiplication of given numbers is : " + (numOne * numTwo));
+
+	// Mode of two numbers
+    System.out.println("The mode of given numbers is : " + (numOne % numTwo));
   }
 }
