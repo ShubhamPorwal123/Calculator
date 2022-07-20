@@ -1,4 +1,4 @@
-### I have tries using github using this repository
+# I have tried using github by this repository
 
-# Calculator
+## Calculator
 Making my own calculator
