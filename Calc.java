@@ -9,5 +9,7 @@ class Calc
     int numTwo = scan.nextInt();
     
     System.out.println("The sum of given number is : " + (numOne + numTwo));
+    
+    System.out.println("The subtraction of guven numbers is : " + (numOne - numTwo));
   }
 }
